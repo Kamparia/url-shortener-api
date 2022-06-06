@@ -1,0 +1,8 @@
+pymongo[srv]
+fastapi
+uvicorn
+starlette==0.20.1
+pydantic==1.9.1
+python-dotenv
+validators
+pytest
